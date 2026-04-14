@@ -1,4 +1,4 @@
-# 🚀 Customer Churn Prediction System (End-to-End ML Pipeline)
+# 🚀 Customer Churn Prediction System
 
 ------------------------------------------------------------------------
 
@@ -67,30 +67,30 @@ provides **real-time predictions** through a deployed web application.
 
 ### 📌 Best Model Evaluation Metrics
 
--   **Precision:** 85%\
--   **Recall:** 83%\
--   **F1-Score:** 84%\
+-   **Precision:** 85%
+-   **Recall:** 83%
+-   **F1-Score:** 84%
 -   **ROC-AUC:** 0.92
 
 ------------------------------------------------------------------------
 
 ## 🔍 Key Churn Drivers
 
-1.  Month-to-month contracts (3x higher churn risk)\
-2.  Tenure less than 6 months (highest churn segment)\
-3.  Monthly charges above \$70 (2x higher risk)\
-4.  Electronic check payment method (25% higher churn)\
+1.  Month-to-month contracts (3x higher churn risk)
+2.  Tenure less than 6 months (highest churn segment)
+3.  Monthly charges above \$70 (2x higher risk)
+4.  Electronic check payment method (25% higher churn)
 5.  Lack of online security services (40% higher churn)
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Technologies Used
 
--   Python\
--   Pandas\
--   Scikit-learn\
--   XGBoost\
--   Streamlit\
+-   Python
+-   Pandas
+-   Scikit-learn
+-   XGBoost
+-   Streamlit
 -   Git & GitHub
 
 ------------------------------------------------------------------------
@@ -113,30 +113,30 @@ streamlit run app.py
 
 ## 🧠 Application Features
 
--   Interactive user input form\
--   Real-time churn prediction\
+-   Interactive user input form
+-   Real-time churn prediction
 -   Risk classification:
-    -   🟥 High Risk (Likely to churn)\
-    -   🟩 Low Risk (Likely to stay)\
+    -   🟥 High Risk (Likely to churn)
+    -   🟩 Low Risk (Likely to stay)
 -   Probability score display (%)
 
 ------------------------------------------------------------------------
 
 ## 💡 Business Impact
 
--   Enables proactive customer retention strategies\
--   Helps reduce customer churn\
--   Supports data-driven decision making\
+-   Enables proactive customer retention strategies
+-   Helps reduce customer churn
+-   Supports data-driven decision making
 -   Estimated **15--20% improvement in retention**
 
 ------------------------------------------------------------------------
 
 ## ✅ Achievements
 
--   ✔ Achieved **86.3% model accuracy**\
--   ✔ Built a **production-ready ML pipeline**\
--   ✔ Developed a **fully functional web application**\
--   ✔ Compared multiple machine learning models\
+-   ✔ Achieved **86.3% model accuracy**
+-   ✔ Built a **production-ready ML pipeline**
+-   ✔ Developed a **fully functional web application**
+-   ✔ Compared multiple machine learning models
 -   ✔ Created a **portfolio-ready project**
 
 ------------------------------------------------------------------------
@@ -144,9 +144,9 @@ streamlit run app.py
 ## 🚀 Final Outcome
 
 A complete, real-world machine learning system that demonstrates: - Data
-analysis\
-- Model building & optimization\
-- Deployment\
+analysis
+- Model building & optimization
+- Deployment
 - Business impact
 
 ------------------------------------------------------------------------
