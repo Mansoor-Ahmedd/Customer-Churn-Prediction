@@ -4,8 +4,8 @@
 
 ## 👨‍💻 Author
 
--   **Student:** Mansoor Ahmed\
--   **Course:** Introduction to Applied Artificial Intelligence\
+-   **Student:** Mansoor Ahmed
+-   **Course:** Introduction to Applied Artificial Intelligence
 
 ------------------------------------------------------------------------
 
