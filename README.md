@@ -6,6 +6,8 @@
 
 -   **Student:** Mansoor Ahmed
 -   **Course:** Introduction to Applied Artificial Intelligence
+-   **Department:** BSCS
+
 
 ------------------------------------------------------------------------
 
